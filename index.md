@@ -3,7 +3,7 @@
 
 ### 소속
 이화여자대학교 경영학과
-
+![ewha sky](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTEyMjhfMTMx%2FMDAxNTc3NTE3Mjk3MTI5.Skoa67vRp8ourU5BgnfnHsKnR4uHpUa4kGq7OJs3FQYg.pidZn-DTR5VXV8R1kHgpvNWNE2FZafzUkkOvlpadhqcg.JPEG.eggbangbang__%2F1577517296601.JPG&type=sc960_832)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
